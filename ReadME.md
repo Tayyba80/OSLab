@@ -225,9 +225,7 @@ void main() {
 
 ## Git Repository Link
 
-[Open Repo]: https://github.com/Tayyba80/OSLab.git
-
-
+https://github.com/Tayyba80/OSLab.git
 
 
 
